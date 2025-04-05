@@ -2,7 +2,7 @@ package models;
 
 public class Cliente extends Pessoa {
 
-    private  String planoCliente;
+    private String planoCliente;
 
     public Cliente(String nome, int idade, String planoCliente) {
         super(nome, idade);
