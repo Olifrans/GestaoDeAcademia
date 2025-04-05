@@ -1,5 +1,5 @@
 
-# Projeto Senai POO
+# :heart: teste Projeto Senai POO
 
 ## Sistema de gestão de academia com os pilares da POO:
 
@@ -15,3 +15,5 @@
 - **Composição**: A `Academia` contém uma lista de `Pessoa`, que pode ser `Cliente` ou `Instrutor`.
 
 :heart: teste
+
+
