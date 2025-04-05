@@ -9,7 +9,7 @@
 - **Composição** é utilizada na classe `Academia`, que contém uma lista de `Pessoa`.
 
 ### Detalhes do projeto:
-- **Abstração e Herança**: A classe `**Pessoa**` é abstrata e serve como base para `Cliente` e `Instrutor`.
+- **Abstração e Herança**: A classe `Pessoa` é **abstrata** e serve como base para `Cliente` e `Instrutor`.
 - **Encapsulamento**: Os atributos são privados e acessados por métodos públicos.
 - **Polimorfismo**: O método `getDescricao()` é sobrescrito para retornar informações específicas de `Cliente` e `Instrutor`.
 - **Composição**: A `Academia` contém uma lista de `Pessoa`, que pode ser `Cliente` ou `Instrutor`.
