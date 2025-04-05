@@ -1,6 +1,6 @@
 package models;
 
-public abstract class Instrutor extends Pessoa {
+public class Instrutor extends Pessoa {
     private String especialidadaInstrutor;
 
     public Instrutor(String nome, int idade, String especialidadaInstrutor) {
